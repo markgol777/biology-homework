@@ -1,0 +1,37 @@
+.main-container {
+    height: 400px;
+    width: 400px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    height: 400px;
+    width: 400px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.info {
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    flex-direction: column;
+}
